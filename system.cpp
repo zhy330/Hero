@@ -4,7 +4,7 @@
 using namespace std;
 
 system::system(){
-	
+	string a = "asasasass";
 }
 
 system::~system(){
