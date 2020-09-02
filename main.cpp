@@ -9,7 +9,7 @@ void printmenu() {
 
 void main() {
 	// 初始化
-
+	cout << "hhhhhhhhha" <<endl;
 	// 打印菜单
 
 
