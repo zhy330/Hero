@@ -11,6 +11,7 @@ public:
 		ATK = c;
 		name = d;
 	};
+	virtual void Information() = 0;          //输出对象的相关信息
 	double getHp() { return Hp; };//得到生命值
 	double getTDF(){ return TDF; };//得到防御力
 	double getATK(){ return ATK; };//得到攻击力
